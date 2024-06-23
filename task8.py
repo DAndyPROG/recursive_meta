@@ -12,3 +12,4 @@ class AnotherClass(metaclass=MyMeta):
 
 my_instance = MyClass()
 another_instance = AnotherClass()
+
